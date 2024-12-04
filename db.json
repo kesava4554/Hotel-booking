@@ -1,0 +1,7 @@
+{
+    "hotels": [
+      { "id": 1, "name": "Hotel Sunshine", "location": "Beachside" },
+      { "id": 2, "name": "Mountain Retreat", "location": "Hills" }
+    ],
+    "bookings": []
+  }
